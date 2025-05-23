@@ -1,0 +1,4 @@
+flask
+pandas
+twilio
+python-dotenv  # Optional if you use .env

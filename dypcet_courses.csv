@@ -1,0 +1,13 @@
+Level,Sr_No,Course,Type
+UG,1,Chemical Engineering,B.Tech
+UG,2,Civil Engineering,B.Tech
+UG,3,Computer Science and Engineering,B.Tech
+UG,4,Computer Science and Engineering (AI & ML),B.Tech
+UG,5,Computer Science and Engineering (Data Science),B.Tech
+UG,6,Electronics and Telecommunication Engineering,B.Tech
+UG,7,Mechanical Engineering,B.Tech
+UG,8,School of Architecture,B.Arch
+PG,1,Computer Science and Engineering,M.Tech
+PG,2,Electronics and Telecommunication Engineering,M.Tech
+Ph.D,1,Computer Science and Engineering,Ph.D
+Ph.D,2,Electronics and Telecommunication Engineering,Ph.D

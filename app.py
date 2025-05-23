@@ -497,7 +497,7 @@ Just ask me anything about DYPCET! For example:
     
     # Default response for unrecognized queries
     else:
-        return f"""❓ I understand you're asking about: *"{message}"*
+        return """❓ I understand you're asking about: *"{message}"*
 
 I can help you with information about:
 • *Courses* - UG/PG/PhD programs
